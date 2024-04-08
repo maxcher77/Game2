@@ -1,5 +1,5 @@
 import pygame
-import buildozer
+#import buildozer
 
 clock = pygame.time.Clock()
 pygame.init()
